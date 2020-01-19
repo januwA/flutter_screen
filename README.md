@@ -1,6 +1,15 @@
 # flutter_screen
 
-Flutter插件，作用是在Android上防止屏幕进入睡眠模式
+Flutter plugin, which prevents the screen from entering sleep mode on Android
+
+## Install
+```
+dependencies:
+  flutter_screen:
+    git:
+      url: https://github.com/januwA/flutter_screen
+      ref: master
+```
 
 ## use
 ```dart

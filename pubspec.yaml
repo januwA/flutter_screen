@@ -1,8 +1,7 @@
 name: flutter_screen
-description: A new flutter plugin project.
+description: Flutter plugin, which prevents the screen from entering sleep mode on Android
 version: 0.1.0
-author:
-homepage:
+homepage: https://github.com/januwA/flutter_screen
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
